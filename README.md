@@ -1,3 +1,3 @@
 $$ \pi - Grid $$
-$$ Presents $$
-$$ Ai Auto Pilot $$ 
+$$ Presents 
+$$ Ai Auto Pilot
